@@ -1,0 +1,10 @@
+d144cc2ce5c1faa52b2b4fce406d18f6 *DESCRIPTION
+e98433d4842bfe97ddc505ffa897759e *LICENSE
+44bc23cbfbcbe660a0598cda93492d42 *NAMESPACE
+a57b6f156eb73a1e3209cedb8a6663e2 *R/hellno.R
+03aca638b3bcdd88c0d7d6b870e27e9d *README.md
+8eacc21d0d31933143663fcdc62f438a *man/HELLNO.Rd
+f46d44a6d4382964401a60bb6dbe9990 *man/as.data.frame.Rd
+4e05f2f448ab5d0ff5e91f1ee74570c3 *man/data.frame.Rd
+6e32e967dbe139e0114bf2e9be54e5d3 *tests/testthat.R
+1acbac63a12bfc35800a6cdbc6c574de *tests/testthat/tests.R
